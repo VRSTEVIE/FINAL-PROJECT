@@ -1,0 +1,11 @@
+Model Information:
+* title:	RMS TITANIC
+* source:	https://sketchfab.com/3d-models/rms-titanic-822201891b68482f95970b85d18d1e6f
+* author:	volcanicash76 (https://sketchfab.com/ashleyrhysbrown813)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "RMS TITANIC" (https://sketchfab.com/3d-models/rms-titanic-822201891b68482f95970b85d18d1e6f) by volcanicash76 (https://sketchfab.com/ashleyrhysbrown813) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
